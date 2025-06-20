@@ -2,7 +2,7 @@
 <h1>Hate Speech Detection: An End-to-End Project</h1>
 <p><em>Combating Online Toxicity with Machine Learning</em></p>
 
-<img src="http://googleusercontent.com/image_collection/image_retrieval/17059729225410855579" alt="Hate Speech App Main" width="400">
+<img src="https://github.com/Uvais5/Hate_Speech_Detection_end_to_end/blob/main/hate%20speech%20app%20main.png" alt="Hate Speech App Main" width="400">
 
 <img alt="last-commit" src="https://img.shields.io/github/last-commit/Uvais5/Hate_Speech_Detection_end_to_end?style=flat&logo=git&logoColor=white&color=red">
 <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/Uvais5/Hate_Speech_Detection_end_to_end?style=flat&color=red">
