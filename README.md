@@ -2,6 +2,8 @@
 <h1>Hate Speech Detection: An End-to-End Project</h1>
 <p><em>Combating Online Toxicity with Machine Learning</em></p>
 
+<img src="http://googleusercontent.com/image_collection/image_retrieval/17059729225410855579" alt="Hate Speech App Main" width="400">
+
 <img alt="last-commit" src="https://img.shields.io/github/last-commit/Uvais5/Hate_Speech_Detection_end_to_end?style=flat&logo=git&logoColor=white&color=red">
 <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/Uvais5/Hate_Speech_Detection_end_to_end?style=flat&color=red">
 <img alt="repo-language-count" src="https://img.shields.io/github/languages/count/Uvais5/Hate_Speech_Detection_end_to_end?style=flat&color=red">
@@ -55,27 +57,34 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Installation
 
 1.  **Clone the repository:**
+
     ```bash
     git clone [https://github.com/Uvais5/Hate_Speech_Detection_end_to_end.git](https://github.com/Uvais5/Hate_Speech_Detection_end_to_end.git)
     ```
 2.  **Navigate to the project directory:**
+
     ```bash
     cd Hate_Speech_Detection_end_to_end
     ```
 3.  **Create a virtual environment (recommended):**
+
     ```bash
     python -m venv venv
     ```
 4.  **Activate the virtual environment:**
+
     * **Windows:**
+
         ```bash
         .\venv\Scripts\activate
         ```
     * **macOS/Linux:**
+
         ```bash
         source venv/bin/activate
         ```
 5.  **Install the required dependencies:**
+
     ```bash
     pip install -r requirements.txt
     ```
@@ -85,6 +94,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 Once the dependencies are installed, you can run the project.
 
 #### Training the Model (if applicable)
+
 If your project includes a separate training script:
+
 ```bash
 python scripts/train_model.py # Adjust path if different
